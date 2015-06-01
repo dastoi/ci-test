@@ -82,7 +82,7 @@ Autocompleter.Base = Class.create({
       this.options.tokens.push('\n');
 
     this.observer = null;
-
+    //aaaaa
     this.element.setAttribute('autocomplete','off');
 
     Element.hide(this.update);
